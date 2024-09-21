@@ -28,12 +28,15 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 
 ### Backend
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white&style=flat)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=coffeescript&logoColor=white&style=flat)](#)
 [![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white&style=flat)](#)
-[![.NET](https://img.shields.io/badge/.NET-blue?style=flat&logo=dotnet&color=blue)](#)
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=sharp&logoColor=white&color=blue&style=flat)](#)
+[![.NET](https://img.shields.io/badge/.NET-blue?style=flat&logo=dotnet&color=darkblue)](#)
 [![Node.Js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white&style=flat)](#)
+[![Go](https://img.shields.io/badge/Go-%23000000.svg?logo=go&logoColor=fff&color=purple&style=flat)](#)
+[![C](https://img.shields.io/badge/Low_level_C-%23000000.svg?logo=c&logoColor=fff&style=flat)](#)
 [![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)](#)
+[![Bash](https://img.shields.io/badge/Bash_scripting-4EAA25?logo=gnubash&logoColor=fff&style=flat)](#)
 
 ### Package managers
 
@@ -56,7 +59,6 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white&style=flat)](#)
 [![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&logoColor=white&style=flat)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=fff&style=flat)](#)
-
 
 ### Services
 
@@ -84,7 +86,6 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 ### CVS
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](#)
-
 
 ## 📊GitHub Stats
 
