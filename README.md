@@ -18,6 +18,7 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 ### Frontend
 
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)](#)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&color=gray&logoColor=61DAFB&style=flat)](#)
 [![Typescript](https://img.shields.io/badge/Typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=flat)](#)
 [![Javascript](https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)](#)
@@ -47,7 +48,6 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 ### Data
 
 [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white&style=flat)](#)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23336791.svg?logo=postgresql&logoColor=white&style=flat)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white&style=flat)](#)
 
@@ -58,6 +58,7 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 [![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonwebservices&logoColor=white&color=yellow&style=flat)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white&style=flat)](#)
 [![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&logoColor=white&style=flat)](#)
+[![Apache](https://img.shields.io/badge/Firebase-%23D42029.svg?logo=firebase&color=orange&logoColor=white&style=flat)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=fff&style=flat)](#)
 
 ### Services
