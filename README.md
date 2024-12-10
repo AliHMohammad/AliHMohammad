@@ -11,7 +11,7 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 😄 Pronouns: He/Him  
 🌱 Currently learning C and React Native.   
 📖 Currently studying AP Computer Science @ KEA.  
-⚡ Fun fact about me: My girl friend got me into software development🥰   
+⚡ Fun fact about me: My fiancée got me into software development🥰   
 
 ## 🔋Tech Stack
 
