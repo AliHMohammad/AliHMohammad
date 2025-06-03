@@ -9,7 +9,7 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 ## 💫 About Me
 
 😄 Pronouns: He/Him  
-🌱 Currently learning C and React Native.   
+🌱 Currently sharpening my skills in Go.   
 📖 Currently studying AP Computer Science @ KEA.  
 ⚡ Fun fact about me: My fiancée got me into software development🥰   
 
