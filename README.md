@@ -10,7 +10,7 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 
 😄 Pronouns: He/Him  
 🌱 Currently sharpening my skills in Go.   
-📖 Currently studying AP Computer Science @ KEA.  
+📖 Currently a bachelor's student in Software Development @ KEA.  
 ⚡ Fun fact about me: My fiancée got me into software development🥰   
 
 ## 🔋Tech Stack
