@@ -1,11 +1,5 @@
 # Greetings! 👋
 
-Welcome to my GitHub profile! My name is Ali, a full-stack software developer with extensive experience in React (TSX), NodeJS (Express), Java (Spring) and DevOps.
-
-I'm passionate about crafting high-quality, scalable software solutions that adhere to best practices. With a keen eye for detail and a dedication to clean code, I strive to deliver maintainable systems that exceed expectations.
-
-Thank you for visiting my profile. Feel free to explore my projects and reach out to me if you have any questions.
-
 ## 💫 About Me
 
 😄 Pronouns: He/Him  
