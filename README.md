@@ -4,7 +4,7 @@
 
 😄 Pronouns: He/Him  
 🌱 Currently sharpening my skills in AWS.   
-📖 Currently a bachelor's student in Software Development @ EK.  
+📖 Bachelor's student in Software Development @ EK.  
 ⚡ Fun fact about me: My fiancée got me into software development🥰   
 
 ## 🔋Tech Stack
